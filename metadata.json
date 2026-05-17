@@ -1,0 +1,8 @@
+{
+  "name": "Purva Upadhyay Portfolio",
+  "description": "A sophisticated, 'Frosted Glass' themed portfolio for Purva Upadhyay, an IT Student & Aspiring Developer featuring advanced glassmorphism, mesh gradients, and next-gen atmospheric visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
