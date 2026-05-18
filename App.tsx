@@ -133,7 +133,7 @@ const Projects = () => {
       title: "Arrivo - UI Design",
       tags: ["Figma"],
       description: "Interactive and easy to use App Interface Design. Arrivo is a futuristic travel app that provides users with real-time updates, personalized recommendations, and seamless booking experiences for their journeys.",
-      img: "home.jpg",
+      img: "Home.jpg",
     },
   ];
 
